@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Ankit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Nothing is fact everything is magic 
+Hey there! I'm Ankit yadav
 
-<!---
-Ankit-gib/Ankit-gib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a BTech CSE (AI/DS) student at Parul University with a strong passion for Artificial Intelligence, Data Science, and cutting-edge tech that makes machines think, reason, and *maybe one day* surpass human intelligence.
+
+
+📚 Other Interests:
+- Open Source Enthusiast 💻
+- Web & App Development (Full-stack) 🌐
+- Deep Learning, Neural Networks, Cognitive Science 🧬
+
+👨‍💻 Tech Stack:
+- Languages: C, JavaScript
+- Frameworks: React, Node.js, Express, TailwindCSS
+- Tools: Git, GitHub, VS Code, Postman, MongoDB, Firebase
+
+🔗 Let's connect!
+- 🌐 Portfolio (coming soon)
+
+📌 "Think like a human. Build like a god."
